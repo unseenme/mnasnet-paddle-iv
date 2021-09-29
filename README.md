@@ -10,9 +10,11 @@ https://arxiv.org/abs/1807.11626
 数据集： ImageNet http://www.image-net.org/challenges/LSVRC/
 
 
-目前处于比赛报名期。
+目前精度：71.576%
 
-待比赛结束后，正式开源代码。
+还在尝试优化。
+
+待比赛完全结束后，正式开源代码。
 
 <!-- ## 项目结构
 ```
