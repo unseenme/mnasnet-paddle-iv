@@ -9,12 +9,11 @@ https://arxiv.org/abs/1807.11626
 
 数据集： ImageNet http://www.image-net.org/challenges/LSVRC/
 
+目前精度：72.74999992370605%
 
-目前精度：71.576%
+## 使用方式
 
-还在尝试优化。
-
-待比赛完全结束后，正式开源代码。
+A：在AI Studio上[运行本项目](https://aistudio.baidu.com/aistudio/clusterprojectdetail/2386807)
 
 <!-- ## 项目结构
 ```
